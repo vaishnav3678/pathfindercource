@@ -1,0 +1,6 @@
+{
+  "name": "Pathfinder Courses",
+  "description": "Dynamic LMS platform for Pathfinder Courses - Learn. Practice. Grow. Features student & admin portals, courses, meetings, and materials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
